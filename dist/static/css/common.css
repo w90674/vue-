@@ -1,0 +1,17 @@
+/* CSS Document */
+@charset "UTF-8";
+/* common CSS*/
+html,body,div,ul,li,ol,dl,dt,dd,img,p,h1,h2,h3,h4,h5,h6{margin: 0;padding: 0}
+ul,li,dl,ol{list-style: none;}
+a{text-decoration: none;color: black}
+input{outline: none}
+.clearfix:after{content:'';visibility: hidden;height: 0;line-height: 0;clear: both;display: block}
+body { background: #ffffff; font-size: 12px; color: #000; font-family: "Arial", "Microsoft YaHei", "SimHei", "NSimSun", "SimSun"; }
+.wrap { width: 1200px; height: auto; margin: 0 auto; }
+
+/*css of common.png*/
+.btn_search_wrap .btn_search, #sitenav, .seabuy_ensure li em, .buy_guide li em, .nav_bar li.shop_car { background: url(/static/img/imgs/common.png) no-repeat; }
+
+
+
+
